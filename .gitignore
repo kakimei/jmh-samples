@@ -1,0 +1,58 @@
+# Eclipse
+.DS_STORE
+.classpath
+.settings/
+.project
+
+# Maven
+/target/
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Mac
+.DS_Store
+
+# Mac
+.DS_Store
+
+# Gradle
+.gradle/
+log/
+build/
+
+# Java
+*.class
+# BlueJ files
+*.ctxt
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+build/*.jar
+build/*.war
+build/*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*# Created by .ignore support plugin (hsz.mobi)
+/bin/
+
+# generated
+*/src/generated/
+
+# node modules
+node_modules/
+
+#classes
+classes/
+
+
+# apigateway generated
+*/src/main/resources/apigateway/sdk/
